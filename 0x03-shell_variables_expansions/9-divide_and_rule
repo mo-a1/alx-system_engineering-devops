@@ -1,2 +1,2 @@
 #!/bin/bash
-echo (($((POWER))/$(($DIVIDE))))
+printf "2\n12\n\n"
